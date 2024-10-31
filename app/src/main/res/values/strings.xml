@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PixelArtSpace</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="genuine">Genuine Human Art</string>
+    <string name="waneella">Waneella</string>
+    <string name="rachels">Rachels Ham</string>
+    <string name="yeti">Yeti House</string>
+    <string name="still">This one still works</string>
+    <string name="skesis">Skesis Castle</string>
+    <string name="distorted">Distorted</string>
+    <string name="tone">Undertone</string>
+    <string name="love">Love is in the air</string>
+</resources>
